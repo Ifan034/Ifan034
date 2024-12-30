@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifan034&label=Profile%20views&color=0e75b6&style=flat" alt="ifan034" /> </p>
 
-- 🔭 I’m currently working on **Mern Project**
+- 🔭 I’m currently working on **Next.js**
 
 - 🌱 I’m currently learning **Mern Stack And Django**
 
